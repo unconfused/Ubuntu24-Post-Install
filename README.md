@@ -28,3 +28,5 @@ sudo apt install libgl1:i386
 Get Steam
 https://store.steampowered.com/about/
 
+Add the extension
+Tray Icons: Reloaded
